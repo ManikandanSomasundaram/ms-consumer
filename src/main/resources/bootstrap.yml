@@ -1,0 +1,7 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9010/eureka
+spring:
+  application:
+    name: serviceconsumer     
